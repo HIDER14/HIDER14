@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @HIDER14
 - 👀 I’m interested in ETHICAL HACKING 
 - 🌱 I’m currently learning LINUX /WEB DEB
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I AM CINEPHILE 
 
 <!---
